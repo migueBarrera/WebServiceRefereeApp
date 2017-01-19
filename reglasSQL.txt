@@ -1,0 +1,15 @@
+INSERT INTO `reglas` (`id`, `trivial_id`, `titulo`) VALUES
+(1, 1, 'El terreno de juego'),
+(2, 1, 'El balon'),
+(3, 1, 'Los jugadores'),
+(4, 1, 'El equipamiento de los jugadores'),
+(5, 1, 'El arbitro'),
+(6, 1, 'Los otros miembros del equipo arbitral'),
+(7, 1, 'La duración del partido'),
+(8, 1, 'El inicio y la reanudación del juego'),
+(9, 1, 'El balón en juego o fuera de jueg'),
+(10, 1, 'El resultado de un partido'),
+(11, 1, 'El fuera de juego'),
+(12, 1, 'Faltas y conducta incorrecta'),
+(13, 1, 'Tiros libres'),
+(14, 1, 'El penalti');
